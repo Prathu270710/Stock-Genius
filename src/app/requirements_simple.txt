@@ -1,0 +1,13 @@
+pandas
+numpy
+scipy
+yfinance
+requests
+xgboost
+scikit-learn
+joblib
+matplotlib
+PyQt6
+PyYAML
+python-dotenv
+tqdm
