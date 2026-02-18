@@ -569,17 +569,4 @@ If you find bugs, have suggestions, or want to contribute:
 - Simplify complex concepts
 
 
-## ✅ Checklist for First-Time Users
-
-- [ ] Cloned repository
-- [ ] Created virtual environment
-- [ ] Installed requirements
-- [ ] Ran `streamlit run src/app.py`
-- [ ] App opened in browser
-- [ ] Searched for a stock
-- [ ] Reviewed all 3 tabs
-- [ ] Read the disclaimer
-- [ ] Understood limitations
-
-
 **Thank you for using Stock Genius!**
